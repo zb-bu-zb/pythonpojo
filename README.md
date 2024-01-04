@@ -1,2 +1,2 @@
 # pythonpojo
-存放python的脚本
+Python+Selenium+allure+excel表格驱动UI自动化测试
